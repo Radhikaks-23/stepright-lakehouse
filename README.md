@@ -2,8 +2,8 @@
 
 An end-to-end data engineering project on **Databricks (AWS)**. It builds a medallion lakehouse (Bronze → Silver → Gold) for **StepRight**, a fictional online footwear retailer. The project covers CDC ingestion, data-quality-as-code, SCD Type 1 and Type 2 history, business-ready Gold tables, monitoring, and a full CI/CD flow across **dev → uat → prod**.
 
-![StepRight Lakehouse architecture](<img width="1500" height="964" alt="image" src="https://github.com/user-attachments/assets/4f17430d-aff2-4574-96c6-6f20009650f5" />
-)
+<img width="2760" height="1770" alt="architecture" src="https://github.com/user-attachments/assets/9bc7697c-0c8b-4d29-b6bc-d121caa77956" />
+
 
 ---
 
