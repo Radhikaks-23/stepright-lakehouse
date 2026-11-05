@@ -122,7 +122,8 @@ Foreign keys are monitored with anti-joins instead of being declared as constrai
 
 The live graph of the transformation pipeline in Databricks:
 
-![Transformation pipeline graph](docs/pipeline_graph.png)
+<img width="1327" height="752" alt="pipeline_combined" src="https://github.com/user-attachments/assets/f03d8e91-ed5b-4e66-b1fb-cef8d1db9db2" />
+
 
 ---
 
